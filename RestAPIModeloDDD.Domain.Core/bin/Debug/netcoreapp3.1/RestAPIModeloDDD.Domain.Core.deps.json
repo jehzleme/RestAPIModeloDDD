@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RestAPIModeloDDD.Domain.Core/1.0.0": {
+        "dependencies": {
+          "RestAPIModeloDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RestAPIModeloDDD.Domain.Core.dll": {}
+        }
+      },
+      "RestAPIModeloDDD.Domain/1.0.0": {
+        "runtime": {
+          "RestAPIModeloDDD.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestAPIModeloDDD.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestAPIModeloDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

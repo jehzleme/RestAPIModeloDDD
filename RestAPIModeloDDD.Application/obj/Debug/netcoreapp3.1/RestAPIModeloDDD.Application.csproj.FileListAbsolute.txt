@@ -1,0 +1,14 @@
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.deps.json
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.dll
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.pdb
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.csprojAssemblyReference.cache
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.AssemblyInfoInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.AssemblyInfo.cs
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.dll
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.pdb
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Core.dll
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.dll
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Core.pdb
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.pdb
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Application\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Application.csproj.CopyComplete

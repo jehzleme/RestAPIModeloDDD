@@ -1,0 +1,14 @@
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.deps.json
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.dll
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.pdb
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Core.dll
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.dll
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Core.pdb
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.pdb
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.csprojAssemblyReference.cache
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.AssemblyInfo.cs
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.csproj.CopyComplete
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.dll
+C:\Users\jessica.ambrust\Documents\PDI\RestAPIModeloDDD\RestAPIModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestAPIModeloDDD.Domain.Services.pdb
